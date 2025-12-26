@@ -1,0 +1,8 @@
+{
+  "name": "The G-Burg Cut - Modern Barbershop",
+  "description": "A premium, modern barbershop experience in Gaithersburg, MD, featuring an AI-powered style advisor and seamless booking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
